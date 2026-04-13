@@ -1,10 +1,5 @@
 # Laboratorio: Git y GitHub
 
-**Nombre:** ___________________________
-**Compañero/a:** ___________________________
-
----
-
 ## Antes de empezar
 
 ### ¿Por qué Git? ¿Por qué hacerlo bien?
