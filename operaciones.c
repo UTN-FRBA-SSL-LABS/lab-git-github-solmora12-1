@@ -14,6 +14,7 @@ int restar(int a, int b) {
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
+//Recibo dos paraeametros enteros y devuelvo el resultado de multiplicarlos
 int multiplicar(int a, int b) {
     return a * b;
 }
